@@ -49,11 +49,11 @@ var data = {
   		amount: 1924486,
   	},
   	{
-  		label: "Linnavalitsuse kanselei",
+  		label: "Linnakantselei",
   		amount: 18619342,
   		children: [    	
       	{
-      		label: "Linnavalitsuse kantselei omakulud",
+      		label: "Linnavalitsuse omakulud",
       		amount: 526213,
       	},
       	{
@@ -355,7 +355,7 @@ var data = {
   		amount: 771000,
   	},
   	{
-  		label: "Turud",
+  		label: "Tallinna linnaturud",
   		amount: 812600,
   	},
   	{
@@ -384,7 +384,7 @@ var data = {
 	},
 	{
 		label: "Transpordiamet",
-		amount: 6313238,
+		amount: 63132384,
 		color: '#145',
 		children: [    	
   	{
@@ -477,11 +477,11 @@ var data = {
     },
     {
     	label: "Mängu- ja jalutusväljakud",
-    	amount: 390000,
+    	amount: 260000,
     },
     {
     	label: "Muud kulud",
-    	amount: 669120,
+    	amount: 799120,
     },
 	  ]
 

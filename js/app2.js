@@ -89,24 +89,9 @@ var data = {
 		color: '#678',
 	},
 	{
-		label: "Kasu vara müügist",
+		label: "Tulu vara müügist",
 		amount: 1777000,
 		color: '#789',
-		children: [    	
-  	{
-  		label: "Tulu vara müügist",
-  		amount: 3000000,
-  	},
-  	{
-  		label: "Müüdud vara jääkmaksumus (-)",
-  		amount: 1210000,
-  	},
-  	{
-  		label: "Vara müügikulud (-)",
-  		amount: 13000,
-  	},
-	  ]
-
 	},
 	{
 		label: "Tulud muult varalt",
