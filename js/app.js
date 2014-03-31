@@ -3,6 +3,43 @@ var data = {
 	amount: 346272726,
 	children: [    	
 	{
+		label: "Tegevuseelarve välised kulud",
+		amount: 83500000,
+		color: '#123',
+		children: [    	
+  	{
+  		label: "Võlgade teenindamine",
+  		amount: 5000000,
+  	},
+  	{
+  		label: "Reservfond",
+  		amount: 4400000,
+  	},
+  	{
+  		label: "Sihtotstarbelised kulud RE vahenditest",
+  		amount: 74100000,
+  		children: [    	
+    	{
+    		label: "Haridus",
+    		amount: 58898868,
+    	},
+    	{
+    		label: "Kultuur",
+    		amount: 1035182,
+    	},
+    	{
+    		label: "Sotsiaalhoolekanne",
+    		amount: 8758942,
+    	},
+    	{
+    		label: "Tervishoid",
+    		amount: 5389068,
+    	},
+    	]
+  	},
+  	]
+  },
+	{
 		label: "Valitsemine",
 		amount: 21560359,
 		color: '#123',
