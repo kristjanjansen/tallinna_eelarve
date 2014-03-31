@@ -45,12 +45,95 @@ var data = {
 		color: '#123',
 		children: [    	
   	{
-  		label: "Linnavolikogu",
+  		label: "Linnavolikogu kantselei",
   		amount: 1924486,
   	},
   	{
-  		label: "Linnavalitsus",
+  		label: "Linnavalitsuse kanselei",
   		amount: 18619342,
+  		children: [    	
+      	{
+      		label: "Linnavalitsuse kantselei omakulud",
+      		amount: 526213,
+      	},
+      	{
+      		label: "IT teenused",
+      		amount: 3065455,
+      	},
+      	{
+      		label: "Avalikud suhted",
+      		amount: 2150105,
+      	},
+      	{
+      		label: "Arendustegevus",
+      		amount: 221000,
+      	},
+      	{
+      		label: "Personalijuhtimine",
+      		amount: 210140,
+      	},
+      	{
+      		label: "Haldusteenused",
+      		amount: 2100384,
+      	},
+      	{
+      		label: "Finantsjuhtimine",
+      		amount: 1036700,
+      	},
+      	{
+      		label: "Kantselei isikkoosseis",
+      		amount: 7662532,
+      	},
+      	{
+      		label: "Juhtimistugi",
+      		amount: 304990,
+      	},
+      	{
+      		label: "Liikmemaksud",
+      		amount: 228000,
+      	},
+      	{
+      		label: "Juriidilised teenused ja kohtukulud",
+      		amount: 210000,
+      	},
+      	{
+      		label: "Valimised",
+      		amount: 109000,
+      	},
+      	{
+      		label: "Rahvaküsitlused",
+      		amount: 31000,
+      	},
+      	{
+      		label: "Rahuliku kooselamise programm",
+      		amount: 381470,
+      	},
+      	{
+      		label: "Omavalitsusfoorum",
+      		amount: 50000,
+      	},
+      	{
+      		label: "Rahuliku kooselamise programm",
+      		amount: 381470,
+      	},
+      	{
+      		label: "Kesklinna videovalve",
+      		amount: 78600,
+      	},
+      	{
+      		label: "Turvalisuse projektid",
+      		amount: 68385,
+      	},
+      	{
+      		label: "Tallinna arengu- ja koostöökeskus",
+      		amount: 55000,
+      	},
+      	{
+      		label: "Muud kulud",
+      		amount: 180350,
+      	},
+      	
+      	]
   	},
   	{
   		label: "Linnaarhiiv",
