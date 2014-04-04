@@ -1,6 +1,6 @@
 var data = {
 	label: "2014 Tallinna eelarve kulud kokku",
-	amount: 346272726,
+	amount: 431600000,
 	children: [    	
 	{
 		label: "Tegevuseelarve välised kulud",
