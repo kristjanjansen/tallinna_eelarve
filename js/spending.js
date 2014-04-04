@@ -454,337 +454,324 @@ var data = {
   		        amount: 100000,
   	                },
   	                {
-  		label: "Kalmistud",
-  		amount: 1104450,
-  	        },
-  	        {
-  		label: "Loomakaitse",
-  		amount: 420000,
-  	        },
-  	        {
-  		label: "Jäätmemajandus",
-  		amount: 1380525,
-  	        },
-  	        {
-    	        label: "Botaanikaaed",
-    	        amount: 913887,
-                },
-                {
-    	        label: "Mängu- ja jalutusväljakud",
-    	        amount: 260000,
-                },
-                {
-    	        label: "Muud kulud",
-    	        amount: 799120,
-                },
-	        ]
-
-	},
-	{
-		label: "Linnaplaneerimise Amet",
+  		        label: "Kalmistud",
+  		        amount: 1104450,
+  	                },
+  	                {
+  		        label: "Loomakaitse",
+  		        amount: 420000,
+  	                },
+  	                {
+  		        label: "Jäätmemajandus",
+  		        amount: 1380525,
+  	                },
+          	        {
+            	        label: "Botaanikaaed",
+            	        amount: 913887,
+                        },
+                        {
+            	        label: "Mängu- ja jalutusväljakud",
+            	        amount: 260000,
+                        },
+                        {
+            	        label: "Muud kulud",
+            	        amount: 799120,
+                        },
+        	]
+	        },
+	        {
+	        label: "Linnaplaneerimise Amet",
 		amount: 3046498,
 		color: '#356',
 		children: [    	
-  	{
-  		label: "Ameti tegevuskulud",
-  		amount: 2473698,
-  	},
-  	{
-  		label: "Geomaatika",
-  		amount: 467400,
-  	},
-  	{
-  		label: "Muud kulud",
-  		amount: 105400,
-  	},
-	  ]
-
-	},
-	{
+  	                {
+  		        label: "Ameti tegevuskulud",
+  		        amount: 2473698,
+  	                },
+  	                {
+  		        label: "Geomaatika",
+  		        amount: 467400,
+  	                },
+  	                {
+  		        label: "Muud kulud",
+  		        amount: 105400,
+  	                },
+	        ]
+	        },
+	        {
 		label: "Munitsipaalpolitsei Amet",
 		amount: 2670563,
 		color: '#467',
-	},
-
-	{
+	        },
+                {
 		label: "Linnaosade valitsused",
 		amount: 22613366,
 		color: '#f00',
 		children: [    	
-
-	{
-		label: "Haabersti Linnaosa Valitsus",
-		amount: 1783572,
-		color: '#f00',
-		children: [    	
-  	{
-  		label: "Linnaosa valitsuse tegevuskulud",
-  		amount: 848937,
-  	},
-  	{
-  		label: "Kultuur",
-  		amount: 93910,
-  	},
-  	{
-  		label: "Noorsootöö",
-  		amount: 81955,
-  	},
-  	{
-  		label: "Sotsiaalhoolekanne",
-  		amount: 253900,
-  	},
-  	{
-  		label: "Haljastus",
-  		amount: 137000,
-  	},
-  	{
-  		label: "Muud kulud",
-  		amount: 367870,
-  	},
-	  ]
-
-	},
-	{
-		label: "Kesklinna Valitsus",
-		amount: 4551783,
-		color: '#f20',
-		children: [    	
-  	{
-  		label: "Linnaosa valitsuse tegevuskulud",
-  		amount: 1826993,
-  	},
-  	{
-  		label: "Kultuur",
-  		amount: 128000,
-  	},
-  	{
-  		label: "Sotsiaalhoolekanne",
-  		amount: 426210,
-  	},
-  	{
-  		label: "Haljastus",
-  		amount: 615000,
-  	},
-  	{
-  		label: "Raua Saun",
-  		amount: 295200,
-  	},
-  	{
-  		label: "Muud kulud",
-  		amount: 1260380,
-  	},
-	  ]
-	},
-	{
-		label: "Kristiine linnaosa Valitsus",
-		amount: 1679444,
-		color: '#f40',
-		children: [    	
-  	{
-  		label: "Linnaosa valitsuse tegevuskulud",
-  		amount: 991164,
-  	},
-  	{
-  		label: "Sotsiaalhoolekanne",
-  		amount: 431230,
-  	},
-  	{
-  		label: "Haljastus",
-  		amount: 80000,
-  	},
-  	{
-  		label: "Muud kulud",
-  		amount: 177050,
-  	},
-	  ]
-	},
-	{
-		label: "Lasnamäe linnaosa Valitsus",
-		amount: 4586466,
-		color: '#f40',
-		children: [    	
-  	{
-  		label: "Linnaosa valitsuse tegevuskulud",
-  		amount: 2318873,
-  	},
-  	{
-  		label: "Kultuur",
-  		amount: 331606,
-  	},
-  	{
-  		label: "Noorsootöö",
-  		amount: 93000,
-  	},
-  	{
-  		label: "Spordikompleks",
-  		amount: 177622,
-  	},
-  	{
-  		label: "Sotsiaalhoolekanne",
-  		amount: 656105,
-  	},
-  	{
-  		label: "Haljastus",
-  		amount: 204160,
-  	},
-  	{
-  		label: "Elamumajandus",
-  		amount: 517600,
-  	},
-  	{
-  		label: "Muud kulud",
-  		amount: 287500,
-  	},
-	  ]
-	},
-	
-	{
-		label: "Mustamäe linnaosa Valitsus",
-		amount: 2489448,
-		color: '#f40',
-		children: [    	
-  	{
-  		label: "Linnaosa valitsuse tegevuskulud",
-  		amount: 1318275,
-  	},
-  	{
-  		label: "Kultuur",
-  		amount: 156748,
-  	},
-  	{
-  		label: "Noorsootöö",
-  		amount: 76985,
-  	},
-  	{
-  		label: "Sotsiaalhoolekanne",
-  		amount: 552920,
-  	},
-  	{
-  		label: "Haljastus",
-  		amount: 101700,
-  	},
-  	{
-  		label: "Elamumajandus",
-  		amount: 517600,
-  	},
-  	{
-  		label: "Muud kulud",
-  		amount: 282820,
-  	},
-	  ]
-	},
-
-	{
-		label: "Nõmme linnaosa Valitsus",
-		amount: 2247358,
-		color: '#f40',
-		children: [    	
-  	{
-  		label: "Linnaosa valitsuse tegevuskulud",
-  		amount: 1094485,
-  	},
-  	{
-  		label: "Kultuur",
-  		amount: 229188,
-  	},
-  	{
-  		label: "Eakate hoolekanne",
-  		amount: 152300,
-  	},
-  	{
-  		label: "Laste hoolekanne",
-  		amount: 68350,
-  	},
-  	{
-  		label: "Sotsiaalkeskus",
-  		amount: 400935,
-  	},
-  	{
-  		label: "Haljastus",
-  		amount: 50000,
-  	},
-  	{
-  		label: "Muud kulud",
-  		amount: 252100,
-  	},
-	  ]	  
-	},
-	
-	{
-		label: "Pirita linnaosa Valitsus",
-		amount: 1496179,
-		color: '#f40',
-		children: [    	
-  	{
-  		label: "Linnaosa valitsuse tegevuskulud",
-  		amount: 645283,
-  	},
-  	{
-  		label: "Kultuur",
-  		amount: 183221,
-  	},
-  	{
-  		label: "Noorsootöö",
-  		amount: 100995,
-  	},
-  	{
-  		label: "Sotsiaalhoolekanne",
-  		amount: 154390,
-  	},
-  	{
-  		label: "Haljastus",
-  		amount: 142860,
-  	},
-  	{
-  		label: "Muud kulud",
-  		amount: 269430,
-  	},
-	  ]	  
-	},
-	
-	{
-		label: "Põhja-Tallinna linnaosa Valitsus",
-		amount: 3779116,
-		color: '#f40',
-		children: [    	
-  	{
-  		label: "Linnaosa valitsuse tegevuskulud",
-  		amount: 1495178,
-  	},
-  	{
-  		label: "Kultuur",
-  		amount: 493463,
-  	},
-  	{
-  		label: "Sotsiaalhoolekanne",
-  		amount: 598970,
-  	},
-  	{
-  		label: "Haljastus",
-  		amount: 221000,
-  	},
-  	{
-  		label: "Üksikkorterite majandamine",
-  		amount: 380900,
-  	},
-  	{
-  		label: "Äriruumide majandamine",
-  		amount: 225300,
-  	},
-  	{
-  		label: "Muud kulud",
-  		amount: 364305,
-  	},
-	  ]	  
-	  
-	  },
-	  ]
-	  
-	},	
-	
+                        {
+		        label: "Haabersti Linnaosa Valitsus",
+		        amount: 1783572,
+		        color: '#f00',
+		        children: [    	
+  	                        {
+  		                label: "Linnaosa valitsuse tegevuskulud",
+  		                amount: 848937,
+  	                        },
+  	                        {
+  		                label: "Kultuur",
+  		                amount: 93910,
+  	                        },
+  	                        {
+  		                label: "Noorsootöö",
+  		                amount: 81955,
+  	                        },
+  	                        {
+  		                label: "Sotsiaalhoolekanne",
+  		                amount: 253900,
+  	                        },
+  	                        {
+  		                label: "Haljastus",
+  		                amount: 137000,
+  	                        },
+  	                        {
+  		                label: "Muud kulud",
+  		                amount: 367870,
+  	                        },
+	                ]
+                        },
+	                {
+		        label: "Kesklinna Valitsus",
+		        amount: 4551783,
+		        color: '#f20',
+		        children: [    	
+  	                        {
+  	                        label: "Linnaosa valitsuse tegevuskulud",
+  		                amount: 1826993,
+  	                        },
+  	                        {
+  		                label: "Kultuur",
+  		                amount: 128000,
+  	                        },
+  	                        {
+  		                label: "Sotsiaalhoolekanne",
+  		                amount: 426210,
+  	                        },
+  	                        {
+  		                label: "Haljastus",
+  		                amount: 615000,
+  	                        },
+  	                        {
+  		                label: "Raua Saun",
+  		                amount: 295200,
+  	                        },
+  	                        {
+  		                label: "Muud kulud",
+  		                amount: 1260380,
+  	                        },
+	                        ]
+	                },
+	                {
+		        label: "Kristiine linnaosa Valitsus",
+		        amount: 1679444,
+		        color: '#f40',
+		        children: [    	
+  	                        {
+  		                label: "Linnaosa valitsuse tegevuskulud",
+  		                amount: 991164,
+  	                        },
+  	                        {
+  		                label: "Sotsiaalhoolekanne",
+  		                amount: 431230,
+  	                        },
+  	                        {
+  		                label: "Haljastus",
+  		                amount: 80000,
+  	                        },
+  	                        {
+  		                label: "Muud kulud",
+  		                amount: 177050,
+  	                        },
+	                ]
+	                },
+	                {
+		        label: "Lasnamäe linnaosa Valitsus",
+		        amount: 4586466,
+		        color: '#f40',
+		        children: [    	
+  	                        {
+  		                label: "Linnaosa valitsuse tegevuskulud",
+  		                amount: 2318873,
+  	                        },
+  	                        {
+  		                label: "Kultuur",
+  		                amount: 331606,
+  	                        },
+  	                        {
+  		                label: "Noorsootöö",
+  		                amount: 93000,
+  	                        },
+  	                        {
+  		                label: "Spordikompleks",
+  		                amount: 177622,
+  	                        },
+  	                        {
+  		                label: "Sotsiaalhoolekanne",
+  		                amount: 656105,
+  	                        },
+  	                        {
+  		                label: "Haljastus",
+  		                amount: 204160,
+  	                        },
+  	                        {
+  		                label: "Elamumajandus",
+  		                amount: 517600,
+  	                        },
+  	                        {
+  		                label: "Muud kulud",
+  		                amount: 287500,
+  	                        },
+	                ]
+	                },
+	                {
+		        label: "Mustamäe linnaosa Valitsus",
+		        amount: 2489448,
+		        color: '#f40',
+		        children: [    	
+  	                        {       
+  		                label: "Linnaosa valitsuse tegevuskulud",
+  		                amount: 1318275,
+  	                        },
+  	                        {
+  		                label: "Kultuur",
+  		                amount: 156748,
+  	                        },
+  	                        {
+  		                label: "Noorsootöö",
+  		                amount: 76985,
+  	                        },
+  	                        {
+  		                label: "Sotsiaalhoolekanne",
+  		                amount: 552920,
+  	                        },
+  	                        {
+  		                label: "Haljastus",
+  		                amount: 101700,
+  	                        },
+  	                        {
+  		                label: "Elamumajandus",
+  		                amount: 517600,
+  	                        },
+  	                        {
+  		                label: "Muud kulud",
+  		                amount: 282820,
+  	                        },
+	                ]
+	                },
+                        {
+		        label: "Nõmme linnaosa Valitsus",
+		        amount: 2247358,
+		        color: '#f40',
+		        children: [    	
+  	                        {
+  		                label: "Linnaosa valitsuse tegevuskulud",
+  		                amount: 1094485,
+  	                        },
+  	                        {
+  		                label: "Kultuur",
+  		                amount: 229188,
+  	                        },
+  	                        {
+  		                label: "Eakate hoolekanne",
+  		                amount: 152300,
+  	                        },
+  	                        {
+  		                label: "Laste hoolekanne",
+  		                amount: 68350,
+  	                        },
+  	                        {
+  		                label: "Sotsiaalkeskus",
+  		                amount: 400935,
+  	                        },
+  	                        {
+  		                label: "Haljastus",
+  		                amount: 50000,
+  	                        },
+  	                        {
+  		                label: "Muud kulud",
+  		                amount: 252100,
+  	                        },
+	                ]	  
+	                },	
+	                {
+		        label: "Pirita linnaosa Valitsus",
+		        amount: 1496179,
+		        color: '#f40',
+		        children: [    	
+  	                        {
+  		                label: "Linnaosa valitsuse tegevuskulud",
+  		                amount: 645283,
+  	                        },
+  	                        {
+  		                label: "Kultuur",
+  		                amount: 183221,
+  	                        },
+  	                        {
+  		                label: "Noorsootöö",
+  		                amount: 100995,
+  	                        },
+  	                        {
+  		                label: "Sotsiaalhoolekanne",
+  		                amount: 154390,
+  	                        },
+  	                        {
+  		                label: "Haljastus",
+  		                amount: 142860,
+  	                        },
+  	                        {
+  		                label: "Muud kulud",
+  		                amount: 269430,
+  	                        },
+	                ]	  
+	                },
+	                {
+		        label: "Põhja-Tallinna linnaosa Valitsus",
+		        amount: 3779116,
+		        color: '#f40',
+		        children: [    	
+  	                        {
+  		                label: "Linnaosa valitsuse tegevuskulud",
+  		                amount: 1495178,
+  	                        },
+  	                        {
+  		                label: "Kultuur",
+  		                amount: 493463,
+  	                        },
+  	                        {
+  		                label: "Sotsiaalhoolekanne",
+  		                amount: 598970,
+  	                        },
+  	                        {
+  		                label: "Haljastus",
+  		                amount: 221000,
+  	                        },
+  	                        {
+  		                label: "Üksikkorterite majandamine",
+  		                amount: 380900,
+  	                        },
+  	                        {
+  		                label: "Äriruumide majandamine",
+  		                amount: 225300,
+  	                        },
+  	                        {
+  		                label: "Muud kulud",
+  		                amount: 364305,
+  	                        },
+	                ]	  
+	                },
+	        ]
+	        },		
 	]
-
-}
+        }
 
 $(function() {
 	new BubbleTree({
