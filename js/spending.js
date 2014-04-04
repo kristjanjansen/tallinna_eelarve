@@ -3,7 +3,7 @@ var data = {
 	amount: 431600000,
 	children: [    	
 	        {
-		label: "Tegevuseelarve välised kulud",
+		label: "Linna üldkulud",
 		amount: 83500000,
 		color: '#123',
 		children: [    	
@@ -50,11 +50,15 @@ var data = {
   	                },
   	                {
   		        label: "Linnakantselei",
-  		        amount: 18619342,
+  		        amount: 20467407,
   		        children: [    	
       	                        {
       		                label: "Linnavalitsuse omakulud",
       		                amount: 526213,
+      	                        },
+      	                        {
+      		                label: "Linna teenistujate ja juhtide palgatõusu vahendid",
+      		                amount: 1848083,
       	                        },
       	                        {
       		                label: "IT teenused",
