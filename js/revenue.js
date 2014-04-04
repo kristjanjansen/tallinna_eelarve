@@ -2,7 +2,6 @@ var data = {
 	label: "2014 Tallinna eelarve tulud kokku",
 	amount: 461334933,
 	children: [    	
-
 	        {
 		label: "Riiklikud maksud",
 		amount: 308273853,
@@ -18,7 +17,6 @@ var data = {
   	                },	
 	        ]
 	        },
-
 	        {
 		label: "Kohalikud maksud",
 		amount: 9080000,
@@ -38,13 +36,11 @@ var data = {
   	                },	
 	        ]
 	        },
-
 	        {
 		label: "Lõivud",
 		amount: 581520,
 		color: '#345',
 	        },
-
 	        {
 		label: "Kaupade ja teenuste müük",
 		amount: 55377390,
@@ -132,7 +128,6 @@ var data = {
   	                },
 	        ]
 	        },
-
 	]
         }
 
