@@ -71,10 +71,6 @@ var data = {
 		children: [    	
   	{
   		label: "Trahvid",
-  		amount: 0,
-  	},
-  	{
-  		label: "Saastetasud",
   		amount: 835000,
   	},
   	{
