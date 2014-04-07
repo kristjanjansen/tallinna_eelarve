@@ -575,7 +575,7 @@ var data = {
 	                        ]
 	                },
 	                {
-		        label: "Kristiine linnaosa Valitsus",
+		        label: "Kristiine Linnaosa Valitsus",
 		        amount: 1679444,
 		        color: '#f40',
 		        children: [    	
@@ -598,7 +598,7 @@ var data = {
 	                ]
 	                },
 	                {
-		        label: "Lasnamäe linnaosa Valitsus",
+		        label: "Lasnamäe Linnaosa Valitsus",
 		        amount: 4586466,
 		        color: '#f40',
 		        children: [    	
@@ -637,7 +637,7 @@ var data = {
 	                ]
 	                },
 	                {
-		        label: "Mustamäe linnaosa Valitsus",
+		        label: "Mustamäe Linnaosa Valitsus",
 		        amount: 2489448,
 		        color: '#f40',
 		        children: [    	
@@ -662,17 +662,13 @@ var data = {
   		                amount: 101700,
   	                        },
   	                        {
-  		                label: "Elamumajandus",
-  		                amount: 517600,
-  	                        },
-  	                        {
   		                label: "Muud kulud",
   		                amount: 282820,
   	                        },
 	                ]
 	                },
                         {
-		        label: "Nõmme linnaosa Valitsus",
+		        label: "Nõmme Linnaosa Valitsus",
 		        amount: 2247358,
 		        color: '#f40',
 		        children: [    	
@@ -685,16 +681,8 @@ var data = {
   		                amount: 229188,
   	                        },
   	                        {
-  		                label: "Eakate hoolekanne",
-  		                amount: 152300,
-  	                        },
-  	                        {
-  		                label: "Laste hoolekanne",
-  		                amount: 68350,
-  	                        },
-  	                        {
-  		                label: "Sotsiaalkeskus",
-  		                amount: 400935,
+  		                label: "Sotsiaalhoolekanne",
+  		                amount: 621600,
   	                        },
   	                        {
   		                label: "Haljastus",
@@ -707,7 +695,7 @@ var data = {
 	                ]	  
 	                },	
 	                {
-		        label: "Pirita linnaosa Valitsus",
+		        label: "Pirita Linnaosa Valitsus",
 		        amount: 1496179,
 		        color: '#f40',
 		        children: [    	
@@ -738,7 +726,7 @@ var data = {
 	                ]	  
 	                },
 	                {
-		        label: "Põhja-Tallinna linnaosa Valitsus",
+		        label: "Põhja-Tallinna Linnaosa Valitsus",
 		        amount: 3779116,
 		        color: '#f40',
 		        children: [    	
