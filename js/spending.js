@@ -428,7 +428,7 @@ var data = {
   	                },
   	                {
   		        label: "Haljastus (Kadrioru park)",
-  		        amount: 900000,
+  		        amount: 900790,
   	                },
   	                {
   		        label: "Vesi ja kanalisatsioon",
