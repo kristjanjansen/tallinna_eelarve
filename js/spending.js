@@ -271,7 +271,7 @@ var data = {
 	        },
 	        {
 		label: "Sotsiaal- ja Tervishoiuamet",
-		amount: 28295801,
+		amount: 26194011,
 		color: '#567',
 		children: [    	
   	                {
@@ -341,7 +341,7 @@ var data = {
                 },
 	        {
 		label: "Ettevõtlusamet",
-		amount: 8463692,
+		amount: 8456092,
 		color: '#789',
 		children: [    	
   	                {
@@ -384,7 +384,7 @@ var data = {
                 },
 	        {
 		label: "Transpordiamet",
-		amount: 63132384,
+		amount: 63119806,
 		color: '#145',
 		children: [    	
   	                {
@@ -411,7 +411,7 @@ var data = {
 	        },
 	        {
 		label: "Kommunaalamet",
-		amount: 40709091,
+		amount: 40708301,
 		color: '#134',
 		children: [    	
   	                {
@@ -446,7 +446,7 @@ var data = {
 	        },
 	        {
 		label: "Keskkonnaamet",
-		amount: 6049891,
+		amount: 6046391,
 		color: '#245',
 		children: [    	
   	                {
