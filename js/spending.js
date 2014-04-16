@@ -21,7 +21,7 @@ var data = {
   		        children: [    	
     	                        {
     		                label: "Haridus",
-    		                amount: 58898868,
+    		                amount: 58916808,
     	                        },
     	                        {
     		                label: "Kultuur",
@@ -134,7 +134,7 @@ var data = {
       	                        },
       	                        {
       		                label: "Muud kulud",
-      		                amount: 180350,
+      		                amount: 130350,
       	                        },
       	                ]
   	                },
@@ -440,7 +440,7 @@ var data = {
                         },
                         {
     	                label: "Muud kulud",
-    	                amount: 1003953,
+    	                amount: 1003163,
                         },
 	        ]
 	        },
@@ -682,7 +682,7 @@ var data = {
   	                        },
   	                        {
   		                label: "Sotsiaalhoolekanne",
-  		                amount: 621600,
+  		                amount: 621585,
   	                        },
   	                        {
   		                label: "Haljastus",
